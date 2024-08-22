@@ -38,6 +38,6 @@
 LinkedIn
 </a>
 </div>
-<a href="mailto:yeiberey@gmail.com">yeiberey@gmail.com</a>
+/"<a href="mailto:yeiberey@gmail.com">yeiberey@gmail.com</a>*/
 
 ⭐️ From [yeiberey](https://github.com/yeiberey)
