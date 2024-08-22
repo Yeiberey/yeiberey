@@ -33,11 +33,3 @@
 
 <p align="center">
 <div style="border-radius: 50%; position: relative;">
-<a href="https://www.linkedin.com/in/yeiberey/">
-<img style="border-radius:50%;" alt="LinkedIn" src="https://media.licdn.com/dms/image/D4E35AQG-L43f79u1qA/profile-framedphoto-shrink_400_400/0/1666997277207?e=1673503200&v=beta&t=PplO2Mi75FuQ2U0ZpDje9NX1g2Yqd8XBWUegEPk-f4o" width=30 height=30 >
-LinkedIn
-</a>
-</div>
-/*<a href="mailto:yeiberey@gmail.com">yeiberey@gmail.com</a>*/
-
-⭐️ From [yeiberey](https://github.com/yeiberey)
